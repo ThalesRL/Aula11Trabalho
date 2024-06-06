@@ -1,0 +1,92 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+
+#imagem_fundo {
+    background: url(img/goku.jpeg);
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+}
+
+#titulo1 {
+    color: white;
+    padding-top: 10%;
+    font-size: 70px;
+    line-height: 1;
+}
+
+#subtitulo1 {
+    color: white;
+    font-size: 46px;
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+#botao {
+    color: black;
+    border: 4px black solid;
+    padding: 10px 20px 10px 20px;
+}
+
+.coluna {
+    padding: 1% 5%;
+    position: relative;
+    float: left;
+  }
+
+.dois {
+    width: 40%;
+}
+
+.quatro {
+    width: 15%;
+}
+
+.tres {
+    width: 29%;
+    padding: 0 2%;
+}
+
+.centralizado {
+    text-align: center;
+}
+.centralizado2 {
+    color: white;
+    text-align: center;
+}
+
+.justificado{
+    color: white;
+    text-align: justify;
+}
+
+.justificado2{
+    text-align: justify;
+}
+
+
+.icone {
+ width: 50%;
+}
+
+section{
+    padding: 20px;
+    float: left;
+    width: 100%;
+}
+
+.destaque1 {
+    background-color: rgb(3,23,45);
+}
+.destaque2 {
+    background-color: rgb(4,50,85);
+}
+
+.destaque {
+    background-color: rgb(15,89,128);
+}
