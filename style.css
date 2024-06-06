@@ -5,7 +5,7 @@ html, body {
 
 
 #imagem_fundo {
-    background: url(img/goku.jpeg);
+    background: url(goku.jpeg);
     height: 100%;
     text-align: center;
     background-size: cover;
